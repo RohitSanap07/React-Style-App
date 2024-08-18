@@ -16,7 +16,8 @@ function Winners()
             color: "#e68a00",
             textAlign: "center",
             fontSize: "30px",
-            fontWeight: "bold"
+            fontWeight: "bold",
+            backgroundColor: "#ffe0b3"
 
         }} >India's Medal Winners in Paris Olympic 2024</div>
     )
